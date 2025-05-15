@@ -57,11 +57,3 @@ O código está disponível no arquivo [`carro_seguidor.ino`](./carro_seguidor.i
 - `setMotores()` – Controla os motores com PWM.
 
 ---
-
-## 🚦 Lógica de Decisão
-
-```text
-           [S0] [S1] [S2] [S3] [S4]
-             \   |   |   |   /
-              \        |       /
-               -- seguir linha --
