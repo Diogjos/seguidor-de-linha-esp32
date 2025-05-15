@@ -2,14 +2,6 @@
 
 Este projeto consiste em um robô seguidor de linha construído com a placa ESP32, sensores TCRT5000, ponte H (L298N) e motores DC. O robô é capaz de seguir uma faixa preta sobre fundo branco utilizando leitura analógica dos sensores.
 
-## 📷 Imagens do Projeto
-
-![Foto lateral do carro](./fotos/carro_lateral.jpg)
-![Foto superior do carro](./fotos/carro_superior.jpg)
-
-## 🎥 Demonstração
-
-[![Assista no YouTube](https://img.shields.io/badge/Ver%20demo%20em%20vídeo-YouTube-red)](https://link-do-seu-video.com)
 
 ## 🧠 Objetivo
 
